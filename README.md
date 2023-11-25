@@ -13,7 +13,7 @@ I'm a BSCS student mostly focusing on frontend development
   <br>
   <h2>Tech Stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,c,py,cs,css,html,nodejs,php" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,java,py,c,cs,nodejs,php" />
   </a>
 </p>
 
