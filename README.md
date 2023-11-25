@@ -2,6 +2,6 @@
 --->  
 
 <h1 align="center"> 👋 </h1>
-<p>computer science student</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
