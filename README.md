@@ -1,7 +1,7 @@
 <!--
 --->  
 
-<h1 align="center"> 👋 Hello There! </h1>
+<h1> 👋 Hello There! </h1>
 I'm a BSCS student mostly focusing on frontend development
 <p align="center">
   <br>
