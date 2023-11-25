@@ -2,7 +2,7 @@
 --->  
 
 <h1 align="center"> 👋 Hello There! </h1>
-<p>I'm a computer science student</p>
+I'm a BSCS student mostly focusing on frontend development
 <p align="center">
   <br>
   
