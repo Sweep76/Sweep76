@@ -8,7 +8,7 @@ I'm a BSCS student mostly focusing on frontend development
   
   <h2>Tools</h2>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,mysql,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,mysql" />
   </a>
   <br>
   <h2>Tech Stack</h2>
