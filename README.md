@@ -11,7 +11,7 @@ I'm a BSCS student interested in data science and frontend development
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,mysql" />
   </a>
   <br>
-  <h2>Tech Stack I used/experienced before</h2>
+  <h2>Languages used/experienced before</h2>
   <a>
     <img src="https://skillicons.dev/icons?i=css,html,react,js,java,py,c,cs,nodejs,php" />
   </a>
