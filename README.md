@@ -13,7 +13,7 @@ I'm a BSCS student interested in data science and frontend development
   <br>
   <h2>TechStack used/experienced before</h2>
   <a>
-    <img src="https://skillicons.dev/icons?i=css,html,react,js,java,dotnet,py,c,cs,nodejs,php,matlab,sass" />
+    <img src="https://skillicons.dev/icons?i=css,html,react,js,java,dotnet,py,c,cs,nodejs,php,angular,matlab,sass" />
   </a>
 </p>
 
