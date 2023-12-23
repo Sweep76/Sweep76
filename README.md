@@ -7,13 +7,13 @@ I'm a BSCS student interested in data science and frontend development
   <br>
   
   <h2>Tools</h2>
-   <a>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vite,github,git,bash,figma" />
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vite,github,git,bash,figma,powershell" />
   </a>
   <br>
   <h2>TechStack used/experienced before</h2>
-  <a>
-    <img src="https://skillicons.dev/icons?i=css,html,react,js,java,dotnet,py,c,cs,nodejs,php,angular,matlab,sass" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,dotnet,py,c,cs,nodejs,php,angular,mysql,matlab,sass" />
   </a>
 </p>
 
