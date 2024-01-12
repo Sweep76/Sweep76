@@ -37,11 +37,8 @@ I'm Joshua Chiu, a BSCS student interested in data science and frontend developm
 <a href="https://swagger.io/tools/swagger-ui/" title="Swagger"><img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" width="45px" height="45px"></a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/" title="Flask"><img src="https://repository-images.githubusercontent.com/596892/cc2c69ec-9251-4b33-8283-b86a8659c9cb" alt="Flask" width="45px" height="45px"></a>
 
-
-
-
-
-
+<br><br>
+<h4> profile creation guide used <a href="https://github.com/marwin1991/profile-technology-icons/blob/main/README.md">Here</a>! </h4> 
 </p>
 
 
