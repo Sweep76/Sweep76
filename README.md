@@ -1,12 +1,12 @@
 <!--
 --->  
 
-<h1> 👋 Hello There! </h1>
+<h2> 👋 Hello There! </h2>
 I'm Joshua Chiu, a BSCS student interested in data science and frontend development
 <p align="center">
   <br>
 
-<h2>Tools</h2>
+<h3>Tools</h3>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" width="40px" height="40px"></a>
 <a href="https://vitejs.dev/" title="Vite"><img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" alt="Vite" width="40px" height="40px"></a>
 <a href="https://www.git-scm.com/downloads" title="Bash"><img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="Bash" width="40px" height="40px"></a>
@@ -16,7 +16,7 @@ I'm Joshua Chiu, a BSCS student interested in data science and frontend developm
 <a href="github.com" title="GitHub"><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" width="40px" height="40px"></a>
 <a href="https://www.mathworks.com/products/matlab.html" title="MATLAB"><img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" width="40px" height="40px"></a>
   
-<h2>TechStack</h2>
+<h3>TechStack</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="40px" height="40px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="40px" height="40px"></a>
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="40px" height="40px"></a>
