@@ -2,7 +2,8 @@
 --->  
 
 <h2> Good Day Proxy! </h2>
-I'm Joshua Chiu, a BSCS student interested in data science and frontend development
+Hello! I'm Joshua Patrick Chiu, a Computer Science Student from the University of San Carlos who is passionate about Data Science, Machine-Learning, and Front-end Development. I am aspiring to develop my skills through the entire college coursework, DataCamp Certifications, GitHub projects, and personal projects throughout my journey.
+
 <p align="center">
   <br>
 
