@@ -1,7 +1,7 @@
 <!--
 --->  
 
-<h2> 👋 Hello There! </h2>
+<h2> Good Day Proxy! </h2>
 I'm Joshua Chiu, a BSCS student interested in data science and frontend development
 <p align="center">
   <br>
