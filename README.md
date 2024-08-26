@@ -21,6 +21,9 @@ I am aspiring to develop my skills through the entire college coursework, DataCa
 <a href="https://www.mathworks.com/products/matlab.html" title="MATLAB"><img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" width="40px" height="40px"></a>
 <a href="https://kafka.apache.org/" title="Kafka"><img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" alt="Kafka" width="40px" height="40px"></a>
 <a href="https://developer.android.com/" title="Android-Studio"><img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android-Studio" width="40px" height="40px"></a>
+<a href="https://aws.amazon.com/" title="Azure"><img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Azure" width="40px" height="40px"></a>
+<a href="https://aws.amazon.com/" title="AWS"><img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="40px" height="40px"></a>
+
   
 <h3>TechStack</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="40px" height="40px"></a>
@@ -44,6 +47,7 @@ I am aspiring to develop my skills through the entire college coursework, DataCa
 <a href="https://swagger.io/tools/swagger-ui/" title="Swagger"><img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" width="40px" height="40px"></a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/" title="Flask"><img src="https://repository-images.githubusercontent.com/596892/cc2c69ec-9251-4b33-8283-b86a8659c9cb" alt="Flask" width="40px" height="40px"></a>
 <a href="https://getbootstrap.com/" title="BootStrap"><img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="BootStrap" width="40px" height="40px"></a>
+
 
 <br><br>
 <h4> profile creation guide used <a href="https://github.com/marwin1991/profile-technology-icons/blob/main/README.md">Here</a>! </h4> 
