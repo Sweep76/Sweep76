@@ -41,6 +41,7 @@ I am aspiring to develop my skills through the entire college coursework, DataCa
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="40px" height="40px"></a>
 <a href="https://swagger.io/tools/swagger-ui/" title="Swagger"><img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" width="40px" height="40px"></a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/" title="Flask"><img src="https://repository-images.githubusercontent.com/596892/cc2c69ec-9251-4b33-8283-b86a8659c9cb" alt="Flask" width="40px" height="40px"></a>
+<a href="https://getbootstrap.com/" title="BootStrap"><img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="BootStrap" width="40px" height="40px"></a>
 
 <br><br>
 <h4> profile creation guide used <a href="https://github.com/marwin1991/profile-technology-icons/blob/main/README.md">Here</a>! </h4> 
