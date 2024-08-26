@@ -20,6 +20,7 @@ I am aspiring to develop my skills through the entire college coursework, DataCa
 <a href="github.com" title="GitHub"><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" width="40px" height="40px"></a>
 <a href="https://www.mathworks.com/products/matlab.html" title="MATLAB"><img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" width="40px" height="40px"></a>
 <a href="https://kafka.apache.org/" title="Kafka"><img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" alt="Kafka" width="40px" height="40px"></a>
+<a href="https://developer.android.com/" title="Android-Studio"><img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android-Studio" width="40px" height="40px"></a>
   
 <h3>TechStack</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="40px" height="40px"></a>
