@@ -1,11 +1,12 @@
 <!--
 --->  
-
+<div align = 'center'>
 <h2> Good Day Proxy! </h2>
 Hello! I'm Joshua Patrick Chiu, a Computer Science Student from the University of San Carlos who is passionate about Data Science, Machine-Learning, and Front-end Development. 
 <br><br>
 
 I am aspiring to develop my skills through the entire college coursework, DataCamp Certifications, GitHub projects, and personal projects throughout my journey.
+</div>
 
   <br>
 
@@ -28,6 +29,7 @@ I am aspiring to develop my skills through the entire college coursework, DataCa
 <h3 align = 'center'>TechStack</h3>
 <div align = 'center'>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="40px" height="40px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="TypeScript"><img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" width="40px" height="40px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="40px" height="40px"></a>
 <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" width="40px" height="40px"></a>
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="40px" height="40px"></a>
