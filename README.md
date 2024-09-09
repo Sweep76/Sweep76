@@ -7,10 +7,10 @@ Hello! I'm Joshua Patrick Chiu, a Computer Science Student from the University o
 
 I am aspiring to develop my skills through the entire college coursework, DataCamp Certifications, GitHub projects, and personal projects throughout my journey.
 
-<p align="center">
   <br>
 
-<h3>Tools</h3>
+<h3 align='center'>Tools</h3>
+<div align="center">
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" width="40px" height="40px"></a>
 <a href="https://vitejs.dev/" title="Vite"><img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" alt="Vite" width="40px" height="40px"></a>
 <a href="https://www.git-scm.com/downloads" title="Bash"><img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="Bash" width="40px" height="40px"></a>
@@ -23,9 +23,10 @@ I am aspiring to develop my skills through the entire college coursework, DataCa
 <a href="https://developer.android.com/" title="Android-Studio"><img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android-Studio" width="40px" height="40px"></a>
 <a href="https://aws.amazon.com/" title="Azure"><img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Azure" width="40px" height="40px"></a>
 <a href="https://aws.amazon.com/" title="AWS"><img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="40px" height="40px"></a>
-
+</div>
   
-<h3>TechStack</h3>
+<h3 align = 'center'>TechStack</h3>
+<div align = 'center'>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="40px" height="40px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="40px" height="40px"></a>
 <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" width="40px" height="40px"></a>
@@ -47,10 +48,9 @@ I am aspiring to develop my skills through the entire college coursework, DataCa
 <a href="https://swagger.io/tools/swagger-ui/" title="Swagger"><img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" width="40px" height="40px"></a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/" title="Flask"><img src="https://repository-images.githubusercontent.com/596892/cc2c69ec-9251-4b33-8283-b86a8659c9cb" alt="Flask" width="40px" height="40px"></a>
 <a href="https://getbootstrap.com/" title="BootStrap"><img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="BootStrap" width="40px" height="40px"></a>
-
+</div>
 
 <br><br>
-<h4> profile creation guide used <a href="https://github.com/marwin1991/profile-technology-icons/blob/main/README.md">Here</a>! </h4> 
-</p>
+
 
 
