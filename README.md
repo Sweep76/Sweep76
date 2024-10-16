@@ -54,6 +54,14 @@ I am aspiring to develop my skills through the entire college coursework, DataCa
 
 <br><br>
 
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 8px; width: 100%">
+  <div style="display: flex; width: 100%; justify-content: center; gap: 8px">
+    <img style="width: 392px" src="https://github-readme-stats.vercel.app/api?username=sweep76&show_icons=true&theme=highcontrast"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweep76&theme=highcontrast&layout=compact&hide=jupyter%20notebook" />
+  </div>
+  <img style="width: 96px;" src="https://komarev.com/ghpvc/?username=sweep76&color=0c1116" />
+</div>
+
 <h4> Profile Guide <a href="https://github.com/marwin1991/profile-technology-icons/blob/main/README.md">Sauce</a>! </h4> 
 
 
