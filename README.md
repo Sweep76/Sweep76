@@ -2,7 +2,7 @@
 --->
 <div align="center">
   <h3> 👋 Hey there Proxy! </h3>
-  <img src="belle.gif" style="height: 350px; width: 900px;">
+  <img src="belle.gif" style="height: 300px; width: 800px;">
 </div>
 
 
