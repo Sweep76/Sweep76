@@ -9,7 +9,7 @@
 
 ### 🧰 Tools and Languages </h2>
 
-### Tools
+#### Tools
 <div>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" width="40px" height="40px"></a>
 <a href="https://vitejs.dev/" title="Vite"><img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" alt="Vite" width="40px" height="40px"></a>
@@ -25,7 +25,7 @@
 <a href="https://aws.amazon.com/" title="AWS"><img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="40px" height="40px"></a>
 </div>
   
-### TechStack
+#### TechStack
 <div>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="40px" height="40px"></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" width="40px" height="40px"></a>
