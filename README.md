@@ -1,5 +1,13 @@
 <!--
---->  
+--->
+<div align="center">
+  <h3> 👋 Hey there Proxy! </h3>
+  <img src="belle.gif" style="height: 350px; width: 900px;">
+</div>
+
+
+<hr>
+  
 ### 📖 About Me
 - Currently learning TypeScript as a JavaScript Enjoyer 💼
 - 4th Year Computer Science Student 👨‍🎓
