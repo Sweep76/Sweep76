@@ -1,7 +1,7 @@
 <!--
 --->  
 ### 📖 About Me
-- Currently learning Angular 💼
+- Currently learning TypeScript as a JavaScript Enjoyer 💼
 - 4th Year Computer Science Student 👨‍🎓
 - Aspiring to learn everyday 💭
 - Planning to take Data Science / Software Development Careers ✨
