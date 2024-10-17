@@ -63,6 +63,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=sweep76&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card" style="width: 400px"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweep76&theme=dark&layout=compact&hide=jupyter%20notebook" style="width: 286px"/>
   </div>
+  <img style="width: 96px;" src="https://komarev.com/ghpvc/?username=sweep76&color=0c1116" />
 </div>
 
 
