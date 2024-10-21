@@ -4,7 +4,8 @@
 
 <div align="center">
   <h3> 👋 Hey there Proxy! </h3>
-  <img src="belle.gif" style="width: 600px;">
+  <img src="omori.gif" style="width: 600px;">
+  <i></i>
 </div>
 
 <hr>
