@@ -5,8 +5,11 @@
 <div align="center">
   <h3> 👋 Hey there Proxy! </h3>
   <img src="omori.gif" style="width: 600px;" />
-  <p>Our dearest Mari, The sun shined brighter when she was here</p>
+  <blockquote>
+    Our dearest Mari, The sun shined brighter when she was here
+  </blockquote>
 </div>
+
 
 <hr>
   
