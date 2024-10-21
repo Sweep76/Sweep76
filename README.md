@@ -1,8 +1,11 @@
 <!--
 --->
+
+
+<div align="center">
   <h3> 👋 Hey there Proxy! </h3>
-
-
+  <img src="belle.gif" style="width: 600px;">
+</div>
 
 <hr>
   
