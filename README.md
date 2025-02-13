@@ -14,8 +14,8 @@
 <hr>
   
 ### 📖 About Me
-- Currently learning Nextjs 💼
-- 4th Year Computer Science Student 👨‍🎓
+- Currently learning React Native 💼
+- BSCS-4 Student 👨‍🎓
 - Aspiring to learn everyday 💭
 - Planning to take Data Science / Software Development Careers ✨
 <hr>
