@@ -14,7 +14,7 @@
 <hr>
   
 ### 📖 About Me
-- Currently learning React Native 💼
+- Currently learning Ruby on Rails 💼
 - BSCS-4 Student 👨‍🎓
 - Aspiring to learn everyday 💭
 - Planning to take Data Science / Software Development Careers ✨
