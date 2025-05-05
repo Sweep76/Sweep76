@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3> 👋 Hey there Proxy! </h3>
-  <img src="omori.gif" style="width: 600px;" />
+  <img src="omori.gif" style="width: 450px;" />
   <blockquote>
     Our dearest Mari, The sun shined brighter when she was here
   </blockquote>
