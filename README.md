@@ -15,7 +15,7 @@
   
 ### 📖 About Me
 - Currently learning Ruby on Rails 💼
-- BSCS-4 Student 👨‍🎓
+- Interested in optimizing LLMs and AutoEncoders
 - Aspiring to learn everyday 💭
 - Planning to take Data Science / Software Development Careers ✨
 <hr>
